@@ -1,0 +1,45 @@
+
+.user_card{
+	height:	auto;
+	width: 450px;
+	margin-top:	auto;
+	margin-bottom: auto;
+	background: rgb(233, 233, 233);
+	position: relative;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	padding: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	-webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	-moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 5px;
+}
+
+.banner_container{
+	position: absolute;
+	height: auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	-webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	-moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-top:	auto;
+	margin-bottom: auto;
+	width: 480px;
+	top: -85px;
+	left: -15px;
+	border-radius: 10%;
+	background: #FFA72E;
+	text-align: center;
+}
+
+.changefont{
+	font-size:xx-large;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color:beige;
+}
+
+.btnStyle{
+	background-color: #FFA72E; 
+	border: none; 
+	left: 200px;
+}
